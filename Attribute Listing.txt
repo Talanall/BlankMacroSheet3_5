@@ -3695,3 +3695,9 @@
 --MysteriousMagicFeat|0|0
 --RendingClawsFeat|0|0
 --RendingClawsUnlock|0|0
+--FilthEaterFeat|0|0
+--ImprovedFlightItemFeat|0|0
+--ManifestFlightFeat|0|0
+--ManifestLeapFeat|0|0
+--SwarmsEmbraceFeat|0|0
+--
