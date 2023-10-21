@@ -2926,6 +2926,7 @@
 --TattooFocusFeatIllu|0|0
 --TattooFocusFeatNecr|0|0
 --TattooFocusFeatTran|0|0
+--CircleMagicSpellPower|0|0
 --OrangePrismIounStoneSpellPower|0|0
 
 --GnomeSpellLikeUnlock|0|0
@@ -3886,3 +3887,24 @@
 --DragonlanceTremendousChargeFeat|0|0
 --DragonlanceTremendousChargeMountName|0|0
 --DragonlanceTremendousChargeMountedStrMod|0|0
+--DLToHSOneiricCircleIllusionDivinationSpellPower|0|0
+--DLToHSPhantasmalPotencyIllusionPhantasmSpellPower|0|0
+--DLToHSFigmentPotencyIllusionFigmentSpellPower|0|0
+--DLToHSRenegadeHunterMinorSyzygy|0|0
+--DLToHSRenegadeHunterMajorSyzygy|0|0
+--DLToHSRenegadeHunterLunarCensure|0|0
+--DLToHSRenegadeHunterLunarInterdiction|0|0
+--DLToHSSeaMageMasterOfWatersSpellPowerWater|0|0
+--DLToHSSeaMageMasterOfWindSpellPowerAir|0|0
+--DLToHSNicheMarketArmsAndArmor|0|0
+--DLToHSNicheMarketConstruct|0|0
+--DLToHSNicheMarketRod|0|0
+--DLToHSNicheMarketRing|0|0
+--DLToHSNicheMarketScroll|0|0
+--DLToHSNicheMarketStaff|0|0
+--DLToHSNicheMarketWand|0|0
+--DLToHSNicheMarketWondrousItem|0|0
+--DLToHSSpellBrokerItemOfDistinctionSpellPower|0|0
+--DLToHSWinternornIceMagic|0|0
+--DLToHSTransferEssenceSpellPower|0|0
+--DLToHSTransferEssenceTarget|0|0
