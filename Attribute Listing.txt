@@ -3855,6 +3855,7 @@
 --WizardOfHighSorceryResistance|0|0
 --WizardOfHighSorcerySustenance|0|0
 --WizardOfHighSorceryTruth|0|0
+--WizardOfHighSorceryRenegade|0|0
 --DragonlanceInquisitorSynergyKnowledgeArcana|0|0
 --DragonlanceInquisitorSynergyKnowledgeArchitectureEngineering|0|0
 --DragonlanceInquisitorSynergyKnowledgeBarbarianLore|0|0
@@ -3908,3 +3909,12 @@
 --DLToHSWinternornIceMagic|0|0
 --DLToHSTransferEssenceSpellPower|0|0
 --DLToHSTransferEssenceTarget|0|0
+--DLToHSRobesOfHighSorcerySpellPowerAbjuration|0|0
+--DLToHSRobesOfHighSorcerySpellPowerIllusion|0|0
+--DLToHSRobesOfHighSorcerySpellPowerNecromancy|0|0
+--DLToHSGauntletOfVentyrSpellPower|0|0
+--DLWotLChoristerChorusSpellPower|0|0
+--DLWotLAstrologicalForecastFeat|0|0
+--DLWotLAstrologicalForecastUnlock|0|0
+--DLWotLAstrologicalForecastPrompt|0|?{Use Astrological Forecast|No,0|Yes,1}
+--DLWotLAstrologicalForecastBonus|0|0
