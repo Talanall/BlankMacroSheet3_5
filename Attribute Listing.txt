@@ -3949,3 +3949,17 @@
 --DLHOotSNecrotheurgeOuterCircleRite|0|0
 --DLHOotSPagefinderGravenMagic|0|0
 --DLHOotSPagefinderGlyphMasterySpellPower|0|0
+--DLAoMAcademySorcererThesisAeromancyAirSpellPower|0|0
+--DLAoMAcademySorcererThesisCryomancyColdSpellPower|0|0
+--DLAoMAcademySorcererThesisDivinationNonLivingDivinationSpellPower|0|0
+--DLAoMAcademySorcererThesisElectromancyElectricSpellPower|0|0
+--DLAoMAcademySorcererThesisEnhancement|0|0
+--DLAoMAcademySorcererThesisGeomancyEarthSpellPower|0|0
+--DLAoMAcademySorcererThesisHydromancyWaterSpellPower|0|0
+--DLAoMAcademySorcererThesisPyromancyFireSpellPower|0|0
+--DLAoMAcademySorcererSpectramancyLightIllusionFigmentSpellPower|0|0
+--DLAoMAcademySorcererThesisSummoning|0|0
+--DLAoMAcademySorcererThesisTransmutationNonLivingSpellPower|0|0
+--DLRoAFavoredOfTheMoonsFeatBlack|0|0
+--DLRoAFavoredOfTheMoonsFeatRed|0|0
+--DLRoAFavoredOfTheMoonsFeatWhite|0|0
