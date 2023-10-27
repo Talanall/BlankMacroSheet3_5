@@ -3963,3 +3963,14 @@
 --DLRoAFavoredOfTheMoonsFeatBlack|0|0
 --DLRoAFavoredOfTheMoonsFeatRed|0|0
 --DLRoAFavoredOfTheMoonsFeatWhite|0|0
+
+--FRCSArcaneSchoolingFeatAsn|0|0
+--FRCSArcaneSchoolingFeatBrd|0|0
+--FRCSArcaneSchoolingFeatSor|0|0
+--FRCSArcaneSchoolingFeatWiz|0|0
+--FRCSArcaneSchoolingFeatBeguiler|0|0
+--FRCSArcaneSchoolingFeatDuskblade|0|0
+--FRCSArcaneSchoolingFeatHexblade|0|0
+--FRCSArcaneSchoolingFeatSpellthief|0|0
+--FRCSArcaneSchoolingFeatWarmage|0|0
+--FRCSArcaneSchoolingFeatWuJen|0|0
