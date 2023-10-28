@@ -3969,8 +3969,15 @@
 --FRCSArcaneSchoolingFeatSor|0|0
 --FRCSArcaneSchoolingFeatWiz|0|0
 --FRCSArcaneSchoolingFeatBeguiler|0|0
+--FRCSArcaneSchoolingFeatDeathMaster|0|0
+--FRCSArcaneSchoolingFeatDreadNecromancer|0|0
 --FRCSArcaneSchoolingFeatDuskblade|0|0
+--FRCSArcaneSchoolingFeatFactotum|0|0
 --FRCSArcaneSchoolingFeatHexblade|0|0
+--FRCSArcaneSchoolingFeatJester|0|0
+--FRCSArcaneSchoolingFeatShair|0|0
 --FRCSArcaneSchoolingFeatSpellthief|0|0
 --FRCSArcaneSchoolingFeatWarmage|0|0
 --FRCSArcaneSchoolingFeatWuJen|0|0
+--FRCSCreatePortalFeat|0|0
+--DaylightAdaptationFeat|0|0
