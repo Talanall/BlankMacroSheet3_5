@@ -197,8 +197,8 @@
 --RacialDisarmResist|0|0
 
 --BaseSaveFort|0|@{FortSaveTabulator}
---BaseSaveRef|0|0
---BaseSaveWill|0|0
+--BaseSaveRef|0|@{RefSaveTabulator}
+--BaseSaveWill|0|@{WillSaveTabulator}
 --RacialSaveVsAll|0|0
 --RacialSaveVsPoison|0|0
 --RacialSaveVsEnchantmentSpellsandSpellLike|0|0
@@ -214,6 +214,7 @@
 --HitPoints|0|0
 --TemporaryHitPoints|0|0
 
+--BarbarianUnlock|0
 --BarbarianRagePerDay|0|0
 --BarbarianRageLevel|@{HitDiceBrb}|@{HitDiceBrb}
 --RageAC|0|0
@@ -221,7 +222,7 @@
 --DRComplete|0|0
 --UCDodgeBrb|0|0
 
---BardCaster|0
+--BardUnlock|0
 --CL_Bard|0|0
 --BardMusicPerDay|0|0
 --BardMusicLevel|0|0
@@ -236,7 +237,7 @@
 --BardicHeroics|0
 --BardicMassSugg|0
 
---ClericCaster|0
+--ClericUnlock|0
 --CL_Cleric|0|0
 --TurnUndeadPerDayClr|0|0
 --TurningLevelClr|0|0
@@ -249,7 +250,7 @@
 --ClericPositiveEnergyToggle|0|0
 --ClericNegativeEnergyToggle|0|0
 
---DruidCaster|0
+--DruidUnlock|0
 --CL_Druid|0|0
 --AnimalCompanionDrd|0|0
 --NatureSenseDrd|0|0
@@ -264,6 +265,7 @@
 --ThousandFaces|0
 --TimelessBodyDrd|0
 
+--MonkUnlock|0
 --MnkLvl|0|0
 --FlurryMod|0|0
 --FlurryLevel|0|0
@@ -289,23 +291,23 @@
 --EmptyBody|0|0
 --PerfectSelf|0|0
 
---PaladinDetect|0
---PaladinCaster|0
+--PaladinUnlock|0
 --CL_Paladin|0|0
---DivineGracePal|0
---PaladinHands|0
+--DivineGracePal|0|0
+--PaladinHands|0|0
 --LayOnHands|0|0
 --SmitesPerDay|0|0
 --SmiteLevel|0|0
 --AuraOfGoodPal|0|0
 --AuraOfCouragePal|0|0
 --DivineHealthPal|0|0
---PaladinRemove|0
+--PaladinRemoveUnlock|0
 --PalRemoveDiseasePerWeek|0|0
 --TurningLevelPal|0|0
 --TurnUndeadPerDayPal|0|0
---PaladinMount|0
+--PaladinMountUnlock|0
 
+--RangerUnlock|0|0
 --WildEmpathyRng|0|0
 --CL_Ranger|0|0
 --AnimalCompanionRng|0|0
@@ -337,6 +339,7 @@
 --CombatStyleRng|
 --CombatStyleRngLevel|0|0
 
+--RogueUnlock|0
 --SADiceRog|0|0
 --TrapFindRog|0
 --EvasionRog|0|0
@@ -351,11 +354,11 @@
 --SkillMasteryRogAvailable|0|0
 --SlipperyMindRog|0
 
---SorcererCaster|0
+--SorcererUnlock|0
 --CL_Sorcerer|0|0
 --FamiliarLevelSor|0|0
 
---WizardCaster|0
+--WizardUnlock|0
 --CL_Wizard|0|0
 --FamiliarLevelWiz|0|0
 --SpecialistWizard|0
@@ -399,6 +402,7 @@
 
 --PsionicPowerPointReserve|0|0
 
+--PsionUnlock|0
 --ML_Psion|0|0
 --PsionEgoist|0|0
 --PsionKineticist|0|0
@@ -411,12 +415,14 @@
 --PsionReservePoints|0|0
 --PsionBonusPoints|0|[[floor(@{ML_Psion}*@{IntMod}*0.5)]]
 
+--PsychicWarriorUnlock|0
 --ML_PsychicWarrior|0|0
 --PsychicWarriorPowersKnown|0|0
---PsychicWarriorMaxLevel|0|0
+--PsychicWarriorPowersMaxLevel|0|0
 --PsychicWarriorReservePoints|0|0
 --PsychicWarriorBonusPoints|0|0
 
+--SoulknifeUnlock|0
 --SoulknifeMindBlade|0|0
 --WeaponFocusFeatMindBlade|0|0
 --SoulknifeThrowMindBlade|0|0
@@ -465,10 +471,11 @@
 --SoulknifeKnifeToTheSoulCharisma|0|0
 --SoulknifeMultipleThrow|0|0
 
+--WilderUnlock|0
 --ML_Wilder|0|0
 --ML_WilderEffective|0|0
 --WilderPowersKnown|0|0
---WilderMaxLevel|0|0
+--WilderPowersMaxLevel|0|0
 --WilderReservePoints|0|0
 --WilderBonusPoints|0|0
 --WilderWildSurge|0|0
